@@ -4,7 +4,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '玩机驿站',
   description: '分享手机玩机经验与实用教程',
-  base: '/zhangguohu-resources/',
+  base: '/',
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
